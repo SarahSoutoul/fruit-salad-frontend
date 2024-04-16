@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: coral;
+}
+
+#button {
+    background-color: coral;
+}
+
+.fruits {
+    margin: 10px;
+    width: 150px;
+    height: 100px;
+    border: solid 2px coral;
+    padding: 5px;
+}
+
+#fruityFooter {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    max-height: 300px;
+    z-index: -1;
+}
